@@ -1,0 +1,19 @@
+{
+    "name": "scraper/test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Scraper\\":"vendor/Scraper",
+            "Entities\\":"src/entities"
+        }
+    },
+    "authors": [
+        {
+            "name": "DevTurgay",
+            "email": "dev.turgay.ali@gmail.com"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^4.0"
+    }
+}

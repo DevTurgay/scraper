@@ -1,0 +1,8 @@
+1. Composer 
+2. Backend
+	2.1 Search the keyword
+	2.2 Scrape pagination link
+	2.3 Scrape all date from all pages
+	2.4 Design Pattern
+	2.5 Autoload
+3. Output
